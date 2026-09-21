@@ -1,16 +1,16 @@
 # 基本（一定要裝）
-streamlit>=1.32
-pandas>=2.0
-numpy>=1.24
-plotly>=5.18
-yfinance>=0.2.40
-FinMind>=1.7
-python-dateutil>=2.8
-scikit-learn>=1.3
+streamlit
+pandas
+numpy
+plotly
+yfinance
+FinMind
+python-dateutil
+scikit-learn
 
 # 新聞情緒分析（TAB5 需要）
-transformers>=4.35
-torch>=2.0
+transformers
+torch
 
 # AI 預測模型（TAB4「重新訓練」需要；只看已存結果可以不裝）
-tensorflow-cpu>=2.13
+tensorflow-cpu
